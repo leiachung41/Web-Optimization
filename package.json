@@ -22,12 +22,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/leachung41/WebOPT.git"
+        "url": "git+https://github.com/leiachung41/Web-Optimization.git"
     },
-    "author": "leachung41",
+    "author": "leiachung41",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/leachung41/WebOPT/issues"
+        "url": "https://github.com/leiachung41/Web-Optimization/issues"
     },
-    "homepage": "https://github.com/leachung41/WebOPT#readme"
+    "homepage": "https://github.com/leiachung41/Web-Optimization#readme"
 }
